@@ -1,0 +1,4 @@
+# Escludo tutto dal contesto di build...
+*
+# ...tranne il JAR che il Dockerfile copia nell'immagine
+!target/*-runner.jar

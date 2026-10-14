@@ -1,0 +1,5 @@
+# Fine riga coerenti tra Windows, macOS e Linux
+* text=auto
+mvnw text eol=lf
+*.sh text eol=lf
+*.cmd text eol=crlf
